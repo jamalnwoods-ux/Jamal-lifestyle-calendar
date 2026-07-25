@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Jamal Lifestyle System 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jamal — Jakai Basketball
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:70c5e666-d36e-4a06-90fc-8aaf563f9a30@openai
+DTSTAMP:20260725T202856Z
+DTSTART;TZID=America/Chicago:20260803T173000
+DTEND;TZID=America/Chicago:20260803T190000
+SUMMARY:Ja’Kai Workout A — Shooting
+DESCRIPTION:Catch-and-shoot\, relocation\, one- and two-dribble pull-ups\
+ , combo moves into spots\, and game-speed shooting.
+CATEGORIES:Jakai Basketball
+TRANSP:OPAQUE
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270801T045959Z
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ja’Kai Workout A — Shooting
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:757107d5-0874-4096-9ed6-653e98832d8c@openai
+DTSTAMP:20260725T202856Z
+DTSTART;TZID=America/Chicago:20260804T173000
+DTEND;TZID=America/Chicago:20260804T183000
+SUMMARY:Ja’Kai Strength / Plyometric Trainer
+DESCRIPTION:Trainer placeholder. Confirm the trainer’s actual day and tim
+ e and edit after booking.
+CATEGORIES:Jakai Basketball
+TRANSP:OPAQUE
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20270801T045959Z
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ja’Kai Strength / Plyometric Trainer
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6bd5caaa-a267-4821-ad2b-12383bf1cf07@openai
+DTSTAMP:20260725T202856Z
+DTSTART;TZID=America/Chicago:20260805T173000
+DTEND;TZID=America/Chicago:20260805T190000
+SUMMARY:Ja’Kai Workout B — Finishing
+DESCRIPTION:Left-hand finishes\, contact finishes\, floaters\, high finis
+ hes\, strong takes\, and reads around the rim.
+CATEGORIES:Jakai Basketball
+TRANSP:OPAQUE
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270801T045959Z
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ja’Kai Workout B — Finishing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:117dff5d-9639-494b-b4a9-73e28b29676b@openai
+DTSTAMP:20260725T202856Z
+DTSTART;TZID=America/Chicago:20260807T173000
+DTEND;TZID=America/Chicago:20260807T190000
+SUMMARY:Ja’Kai Workout C — Defense + Conditioning
+DESCRIPTION:Stance\, slides\, closeouts\, recovery sprints\, breathing co
+ ntrol\, conditioning\, and defensive discipline.
+CATEGORIES:Jakai Basketball
+TRANSP:OPAQUE
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270801T045959Z
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ja’Kai Workout C — Defense + Conditioning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee57c3b6-fa8c-410b-85f4-9d423541915d@openai
+DTSTAMP:20260725T202856Z
+DTSTART;TZID=America/Chicago:20260808T100000
+DTEND;TZID=America/Chicago:20260808T110000
+SUMMARY:Ja’Kai Light Skill / Rhythm Session
+DESCRIPTION:Low-pressure rhythm work: jump rope\, tennis-ball coordinatio
+ n\, ball-handling cadence\, footwork\, and form shooting.
+CATEGORIES:Jakai Basketball
+TRANSP:OPAQUE
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270801T045959Z
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ja’Kai Light Skill / Rhythm Session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:13a0521e-dffd-490f-855f-ef1fe47b9bda@openai
+DTSTAMP:20260725T202856Z
+DTSTART;TZID=America/Chicago:20260802T190000
+DTEND;TZID=America/Chicago:20260802T192000
+SUMMARY:Ja’Kai Weekly Progress Talk
+DESCRIPTION:Brief supportive check-in: one win\, one lesson\, and one foc
+ us for the coming week.
+CATEGORIES:Jakai Basketball
+TRANSP:OPAQUE
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20270801T045959Z
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Ja’Kai Weekly Progress Talk
+END:VALARM
+END:VEVENT
+END:VCALENDAR
